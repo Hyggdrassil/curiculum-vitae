@@ -1,0 +1,30 @@
+.bloc1{
+    border: solid 1px #666
+}
+
+.bloc2{
+    border: solid 1px #666
+}
+.bloc3{
+    border: solid 1px #666
+}
+
+@media only screen and (max-width: 600px)
+{
+    .bloc1{
+        background-color: rgb(241, 16, 204);
+    }
+}
+
+@media only screen and (min-width: 900px)
+{
+    .bloc2{
+        background-color: rgb(241,90,16);
+    }
+}
+
+@media only screen and (min-width:600px) and (max-width:900px){
+    .bloc3{
+        background-color: rgb(42,12,214);
+    }
+}
