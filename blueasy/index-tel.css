@@ -1,0 +1,70 @@
+/* who is john */
+
+.DOE
+{
+    background-image: url(bgphoto.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+text-align: justify; 
+color: white;   
+}
+.text-1
+{
+margin-left: 10%;
+margin-right: 10%;
+}
+.logo
+{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+/*who is john*/
+
+/* testimonal */
+#testimonal
+{
+    background-color: rgba(255, 255, 255, 1);
+   
+}
+#testimonal div{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.timonial-text
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.timtext
+{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+/* testimonal */
+/* contact */
+#contact
+{
+ background-image: url(contact.png);
+
+}
+#contact div{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+/* contact */
+/* footer */
+.Footer
+{
+    background-color: rgba(53, 63, 71, 1);
+    color: white;
+
+}
+#home
+{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+/* footer */
